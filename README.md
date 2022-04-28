@@ -23,3 +23,11 @@ All my content will be extremely punchy and to-the-point: I am a STEM person. I 
 ## Why hide yourself?
 
 The other part of my content rule is that I will not bother using this account to post information if it is not controversial and impactful at the same time. I expect a lot of my content here to rub many people the wrong way to the point of seeking real-world retribution on me. In short, I do not want my life (and generally I have a very good life ahead of me) destroyed because of my opinion.
+
+## On "sources"
+
+Do not ask me for sources. If I consistently annotate my sources, it will be an extremely tedious task because the sources are either 1) from myself 2) something you can easily look up with a 5-min Google/Wikipedia search. If you find any exception, let me know in the issues.
+
+## On "rigor"
+
+Do not expect my content to be rigorous, inclusive, or comprehensive. The only standard I hold myself to here is ensure every statement is made on a _prima facie_ basis (i.e., "sufficient to establish a fact or a case unless disproved"[[1]](https://www.merriam-webster.com/dictionary/prima%20facie)). Ultimately, my content is meant to offer a perspective that is authentic from faithfully observed life experiences, as opposed to establish an academic set of true knowledge. If you find any exception, let me know in the issues.
